@@ -1,8 +1,10 @@
+
+#include <stdio.h>
+
 //Osman Efe Güleç
 //2420161037
 //https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahz8rBKd
 
-#include <stdio.h>
 
 //tam sayi dizisini ekrana yazdırmamız için  
 void dizi_yazdir(int dizi[], int BOYUT) {
